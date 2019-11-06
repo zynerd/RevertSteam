@@ -4,6 +4,8 @@ Made in C#, this Windows forms application automates the process of reverting/do
 
 This project was based off of [Leeson's video](https://youtu.be/bjN6-e3nlPE) on reverting to the old Steam Library UI.
 
+![Screenshot of RevertSteam](https://github.com/zynerd/RevertSteam/raw/master/Images/screenshot.png)
+
 ## Download
 
 The latest version can be downloaded from the [releases tab](https://github.com/zynerd/RevertSteam/releases).
