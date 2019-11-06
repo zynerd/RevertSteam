@@ -1,0 +1,9 @@
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\bin\Debug\RevertSteam.exe.config
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\bin\Debug\RevertSteam.exe
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\bin\Debug\RevertSteam.pdb
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\obj\Debug\RevertSteam.csprojAssemblyReference.cache
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\obj\Debug\RevertSteam.Properties.Resources.resources
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\obj\Debug\RevertSteam.csproj.GenerateResource.cache
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\obj\Debug\RevertSteam.exe
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\obj\Debug\RevertSteam.pdb
+C:\Users\rob\source\repos\RevertSteam\RevertSteam\obj\Debug\RevertSteam.RevertSteamWindow.resources
