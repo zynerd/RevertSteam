@@ -1,3 +1,5 @@
+# !!! THIS TOOL NO LONGER WORKS—THE PROJECT HAS SINCE BEEN ABANDONED !!!
+
 # RevertSteam
 
 Made in C#, this Windows forms application automates the process of reverting/downgrading back to the old Steam Library UI.
