@@ -15,3 +15,6 @@ The latest version can be downloaded from the [releases tab](https://github.com/
 ## Extras
 
 I've included a [zipped folder](https://u.teknik.io/5yxKB.zip) of all the necessary files on the off chance that Valve removes the files from their server.
+
+## NOTE
+https://u.teknik.io is currently giving timeouts, so this script will fail at the 28th file. Additionally, the supplied package is hosted on the same site, so it is also not working. I'm adding these comments in a forked PR in the hopes that the developer will see this and re-host these 2 files in a separate location and update the few lines of code in their download function of the script. Thanks!
